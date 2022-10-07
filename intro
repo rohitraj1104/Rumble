@@ -4,3 +4,7 @@
 	4. Create an account with 'sudo rumblectl initial [email address]'
 	5. View all CLI commands with 'sudo rumblectl --help'
 	6. Review our documentation https://www.rumble.run/docs
+
+
+
+How to become superuser: rumblectl user set-role robert.houtenbrink@test.cloud.ibm.com superuser
